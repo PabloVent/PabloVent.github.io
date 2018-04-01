@@ -43,7 +43,9 @@ header.startup h1 {
   font-size: 160%;
   /*text-transform: uppercase;*/
   border-radius: 600px;
-  font-family: 'Dancing Script', cursive; 
+  font-family: 'Dancing Script', cursive;
+  /*display: flex;
+  justify-content: center;*/
 }
 
 .btn-xl {
@@ -60,4 +62,5 @@ header.startup h1 {
   border-width: 5px;
   cursor: pointer;
 }
-  
+
+
